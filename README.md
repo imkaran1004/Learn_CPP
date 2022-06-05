@@ -27,7 +27,7 @@ Driver Programs having all methods
 | 7             | [LINKEDLIST](./Linked_List) |
 | 8             | [Graph](./Graph) |
 
-## Contributors
-<a href="https://github.com/jaygajera17/Learn_CPP/graphs/contributors">
+<!-- ## Contributors
+<!-- <a href="https://github.com/jaygajera17/Learn_CPP/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jaygajera17/Learn_CPP" />
-</a>
+</a> --> -->
